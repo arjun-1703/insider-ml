@@ -1,0 +1,12 @@
+# These companies are used to TRAIN the fair-value model
+# Large-cap NSE stocks with reliable fundamental data
+RELIANCE.NS
+TCS.NS
+INFY.NS
+HDFCBANK.NS
+WIPRO.NS
+ICICIBANK.NS
+HINDUNILVR.NS
+BAJFINANCE.NS
+KOTAKBANK.NS
+LTIM.NS
